@@ -1,0 +1,15 @@
+package LoginTest::DB;
+use parent 'Teng';
+use DateTime;
+
+__PACKAGE__->load_plugin('Pager');
+__PACKAGE__->load_plugin('Count');
+
+use Class::Method::Modifiers;
+
+before update => sub{
+  my($self,$table_name,$update_row_data,$update_condition) = @_;
+
+}
+
+1;

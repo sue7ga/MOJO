@@ -1,0 +1,12 @@
+
+% if ($auth_failed){
+ <b> wrong! </b><br>
+% }
+
+%= form_for index => (method => 'post') => begin
+ Name:<br>
+ %= text_field 'user'
+ <br> password:<br>
+ %= text_field 'pass'
+ %= submit_button 'Login'
+% end

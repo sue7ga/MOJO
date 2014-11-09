@@ -1,0 +1,289 @@
+[Sun Nov  9 12:12:06 2014] [debug] GET "/".
+[Sun Nov  9 12:12:06 2014] [debug] Controller "LoginTest::Root" does not exist.
+[Sun Nov  9 12:12:06 2014] [debug] Template "root/index.html.ep" not found.
+[Sun Nov  9 12:12:06 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:12:06 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:12:06 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:12:06 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:12:06 2014] [debug] 404 Not Found (0.032219s, 31.038/s).
+[Sun Nov  9 12:27:22 2014] [debug] GET "/".
+[Sun Nov  9 12:27:22 2014] [error] Bareword "t" not allowed while "strict subs" in use at /home/suehiro/MOJO/login_test/script/../lib/LoginTest/Root.pm line 28, <DATA> line 231.
+Compilation failed in require at (eval 273) line 1, <DATA> line 231.
+
+[Sun Nov  9 12:27:22 2014] [debug] Template "exception.development.html.ep" not found.
+[Sun Nov  9 12:27:22 2014] [debug] Template "exception.html.ep" not found.
+[Sun Nov  9 12:27:22 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:27:22 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:27:22 2014] [debug] 500 Internal Server Error (0.052966s, 18.880/s).
+[Sun Nov  9 12:27:40 2014] [debug] GET "/".
+[Sun Nov  9 12:27:40 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 12:27:40 2014] [debug] Template "root/index.html.ep" not found.
+[Sun Nov  9 12:27:40 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:27:40 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:27:40 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:27:40 2014] [debug] Rendering cached inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:27:40 2014] [debug] 404 Not Found (0.005841s, 171.204/s).
+[Sun Nov  9 12:28:07 2014] [debug] GET "/".
+[Sun Nov  9 12:28:07 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 12:28:07 2014] [debug] Template "root/index.html.ep" not found.
+[Sun Nov  9 12:28:07 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:28:07 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:28:07 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:28:07 2014] [debug] Rendering cached inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:28:07 2014] [debug] 404 Not Found (0.006758s, 147.973/s).
+[Sun Nov  9 12:38:48 2014] [debug] GET "/".
+[Sun Nov  9 12:38:48 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 12:38:48 2014] [debug] Template "root/index.html.ep" not found.
+[Sun Nov  9 12:38:48 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:38:48 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:38:48 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:38:48 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:38:48 2014] [debug] 404 Not Found (0.054157s, 18.465/s).
+[Sun Nov  9 12:39:20 2014] [debug] GET "/".
+[Sun Nov  9 12:39:20 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 12:39:20 2014] [debug] Template "root/index.html.ep" not found.
+[Sun Nov  9 12:39:20 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:39:20 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:39:20 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:39:20 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:39:20 2014] [debug] 404 Not Found (0.050752s, 19.704/s).
+[Sun Nov  9 12:39:40 2014] [debug] GET "/".
+[Sun Nov  9 12:39:40 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 12:39:40 2014] [debug] Template "root/index.html.ep" not found.
+[Sun Nov  9 12:39:40 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:39:40 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:39:40 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:39:40 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:39:40 2014] [debug] 404 Not Found (0.055872s, 17.898/s).
+[Sun Nov  9 12:41:01 2014] [debug] GET "/".
+[Sun Nov  9 12:41:01 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 12:41:01 2014] [debug] Rendering template "root/index.html.ep".
+[Sun Nov  9 12:41:01 2014] [debug] 200 OK (0.032832s, 30.458/s).
+[Sun Nov  9 12:42:17 2014] [debug] GET "/hoge".
+[Sun Nov  9 12:42:17 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:42:17 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:42:17 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:42:17 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:42:17 2014] [debug] 404 Not Found (0.031235s, 32.015/s).
+[Sun Nov  9 12:43:36 2014] [debug] GET "/hoge".
+[Sun Nov  9 12:43:36 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:43:36 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:43:36 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:43:36 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:43:36 2014] [debug] 404 Not Found (0.042766s, 23.383/s).
+[Sun Nov  9 12:43:41 2014] [debug] GET "/hoge".
+[Sun Nov  9 12:43:41 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:43:41 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:43:41 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:43:41 2014] [debug] Rendering cached inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:43:41 2014] [debug] 404 Not Found (0.004148s, 241.080/s).
+[Sun Nov  9 12:44:37 2014] [debug] GET "/hoge".
+[Sun Nov  9 12:44:37 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:44:37 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:44:37 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:44:37 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:44:37 2014] [debug] 404 Not Found (0.034375s, 29.091/s).
+[Sun Nov  9 12:44:42 2014] [debug] GET "/".
+[Sun Nov  9 12:44:42 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 12:44:42 2014] [info] login check
+[Sun Nov  9 12:44:42 2014] [debug] Rendering template "root/auth.html.ep".
+[Sun Nov  9 12:44:42 2014] [debug] 200 OK (0.002508s, 398.724/s).
+[Sun Nov  9 12:44:49 2014] [debug] POST "/".
+[Sun Nov  9 12:44:49 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 12:44:49 2014] [info] login check
+[Sun Nov  9 12:44:49 2014] [info] pass check
+[Sun Nov  9 12:44:49 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 12:44:49 2014] [debug] Rendering template "root/index.html.ep".
+[Sun Nov  9 12:44:49 2014] [debug] 200 OK (0.001855s, 539.084/s).
+[Sun Nov  9 12:44:57 2014] [debug] GET "/logout".
+[Sun Nov  9 12:44:57 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 12:44:57 2014] [info] login check
+[Sun Nov  9 12:44:57 2014] [debug] Routing to controller "LoginTest::Root" and action "logout".
+[Sun Nov  9 12:44:57 2014] [debug] 302 Found (0.001166s, 857.633/s).
+[Sun Nov  9 12:44:57 2014] [debug] GET "/".
+[Sun Nov  9 12:44:57 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 12:44:57 2014] [info] login check
+[Sun Nov  9 12:44:57 2014] [debug] Rendering cached template "root/auth.html.ep".
+[Sun Nov  9 12:44:57 2014] [debug] 200 OK (0.001128s, 886.525/s).
+[Sun Nov  9 12:45:01 2014] [debug] GET "/hoge".
+[Sun Nov  9 12:45:01 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 12:45:01 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 12:45:01 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 12:45:01 2014] [debug] Rendering cached inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 12:45:01 2014] [debug] 404 Not Found (0.009378s, 106.633/s).
+[Sun Nov  9 12:45:53 2014] [debug] POST "/".
+[Sun Nov  9 12:45:53 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 12:45:53 2014] [info] login check
+[Sun Nov  9 12:45:53 2014] [info] pass check
+[Sun Nov  9 12:45:53 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 12:45:53 2014] [debug] Rendering cached template "root/index.html.ep".
+[Sun Nov  9 12:45:53 2014] [debug] 200 OK (0.001472s, 679.348/s).
+[Sun Nov  9 12:45:56 2014] [debug] GET "/logout".
+[Sun Nov  9 12:45:56 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 12:45:56 2014] [info] login check
+[Sun Nov  9 12:45:56 2014] [debug] Routing to controller "LoginTest::Root" and action "logout".
+[Sun Nov  9 12:45:56 2014] [debug] 302 Found (0.000938s, 1066.098/s).
+[Sun Nov  9 12:45:56 2014] [debug] GET "/".
+[Sun Nov  9 12:45:56 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 12:45:56 2014] [info] login check
+[Sun Nov  9 12:45:56 2014] [debug] Rendering cached template "root/auth.html.ep".
+[Sun Nov  9 12:45:56 2014] [debug] 200 OK (0.001051s, 951.475/s).
+[Sun Nov  9 12:46:12 2014] [debug] GET "/".
+[Sun Nov  9 12:46:12 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 12:46:12 2014] [info] login check
+[Sun Nov  9 12:46:12 2014] [debug] Rendering template "root/auth.html.ep".
+[Sun Nov  9 12:46:12 2014] [debug] 200 OK (0.029575s, 33.812/s).
+[Sun Nov  9 13:16:57 2014] [debug] GET "/".
+[Sun Nov  9 13:16:57 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:16:57 2014] [info] login check
+[Sun Nov  9 13:16:57 2014] [debug] Rendering cached template "root/auth.html.ep".
+[Sun Nov  9 13:16:57 2014] [debug] 200 OK (0.005664s, 176.554/s).
+[Sun Nov  9 13:17:02 2014] [debug] GET "/register".
+[Sun Nov  9 13:17:02 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 13:17:02 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 13:17:02 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 13:17:02 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 13:17:02 2014] [debug] 404 Not Found (0.029288s, 34.144/s).
+[Sun Nov  9 13:17:19 2014] [debug] GET "/register".
+[Sun Nov  9 13:17:19 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:17:19 2014] [info] login check
+[Sun Nov  9 13:17:19 2014] [debug] Rendering template "root/auth.html.ep".
+[Sun Nov  9 13:17:19 2014] [debug] 200 OK (0.030221s, 33.090/s).
+[Sun Nov  9 13:17:23 2014] [debug] GET "/register".
+[Sun Nov  9 13:17:23 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:17:23 2014] [info] login check
+[Sun Nov  9 13:17:23 2014] [debug] Rendering cached template "root/auth.html.ep".
+[Sun Nov  9 13:17:23 2014] [debug] 200 OK (0.000998s, 1002.004/s).
+[Sun Nov  9 13:17:59 2014] [debug] POST "/".
+[Sun Nov  9 13:17:59 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:17:59 2014] [info] login check
+[Sun Nov  9 13:17:59 2014] [info] pass check
+[Sun Nov  9 13:17:59 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 13:17:59 2014] [debug] Rendering template "root/index.html.ep".
+[Sun Nov  9 13:17:59 2014] [debug] 200 OK (0.001941s, 515.198/s).
+[Sun Nov  9 13:18:04 2014] [debug] GET "/register".
+[Sun Nov  9 13:18:04 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:18:04 2014] [info] login check
+[Sun Nov  9 13:18:04 2014] [debug] Routing to controller "LoginTest::Root" and action "register".
+[Sun Nov  9 13:18:04 2014] [debug] Rendering template "root/register.html.ep".
+[Sun Nov  9 13:18:04 2014] [debug] 200 OK (0.001356s, 737.463/s).
+[Sun Nov  9 13:26:11 2014] [debug] GET "/register".
+[Sun Nov  9 13:26:11 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:26:11 2014] [info] login check
+[Sun Nov  9 13:26:11 2014] [debug] Routing to controller "LoginTest::Root" and action "register".
+[Sun Nov  9 13:26:11 2014] [debug] Rendering template "root/register.html.ep".
+[Sun Nov  9 13:26:11 2014] [debug] 200 OK (0.007195s, 138.985/s).
+[Sun Nov  9 13:26:19 2014] [debug] GET "/mypage".
+[Sun Nov  9 13:26:19 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 13:26:19 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 13:26:19 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 13:26:19 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 13:26:19 2014] [debug] 404 Not Found (0.044244s, 22.602/s).
+[Sun Nov  9 13:26:46 2014] [debug] GET "/mypage".
+[Sun Nov  9 13:26:46 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:26:46 2014] [info] login check
+[Sun Nov  9 13:26:46 2014] [debug] Routing to controller "LoginTest::Root" and action "mypage".
+[Sun Nov  9 13:26:46 2014] [debug] Rendering template "root/mypage.html.ep".
+[Sun Nov  9 13:26:46 2014] [debug] 200 OK (0.004567s, 218.962/s).
+[Sun Nov  9 13:26:52 2014] [debug] GET "/login".
+[Sun Nov  9 13:26:52 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 13:26:52 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 13:26:52 2014] [debug] Rendering inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 13:26:52 2014] [debug] Rendering inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 13:26:52 2014] [debug] 404 Not Found (0.035988s, 27.787/s).
+[Sun Nov  9 13:26:57 2014] [debug] GET "/".
+[Sun Nov  9 13:26:57 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:26:57 2014] [info] login check
+[Sun Nov  9 13:26:57 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 13:26:57 2014] [debug] Rendering template "root/index.html.ep".
+[Sun Nov  9 13:26:57 2014] [debug] 200 OK (0.017871s, 55.957/s).
+[Sun Nov  9 13:26:59 2014] [debug] GET "/logout".
+[Sun Nov  9 13:26:59 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:26:59 2014] [info] login check
+[Sun Nov  9 13:26:59 2014] [debug] Routing to controller "LoginTest::Root" and action "logout".
+[Sun Nov  9 13:26:59 2014] [debug] 302 Found (0.001055s, 947.867/s).
+[Sun Nov  9 13:26:59 2014] [debug] GET "/".
+[Sun Nov  9 13:26:59 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:26:59 2014] [info] login check
+[Sun Nov  9 13:26:59 2014] [debug] Rendering template "root/auth.html.ep".
+[Sun Nov  9 13:26:59 2014] [debug] 200 OK (0.001891s, 528.821/s).
+[Sun Nov  9 13:27:05 2014] [debug] GET "/home".
+[Sun Nov  9 13:27:05 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 13:27:05 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 13:27:05 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 13:27:06 2014] [debug] Rendering cached inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 13:27:06 2014] [debug] 404 Not Found (0.004020s, 248.756/s).
+[Sun Nov  9 13:27:10 2014] [debug] GET "/mypage".
+[Sun Nov  9 13:27:10 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:10 2014] [info] login check
+[Sun Nov  9 13:27:10 2014] [debug] Rendering cached template "root/auth.html.ep".
+[Sun Nov  9 13:27:10 2014] [debug] 200 OK (0.001056s, 946.970/s).
+[Sun Nov  9 13:27:14 2014] [debug] GET "/mypage".
+[Sun Nov  9 13:27:14 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:14 2014] [info] login check
+[Sun Nov  9 13:27:14 2014] [debug] Rendering cached template "root/auth.html.ep".
+[Sun Nov  9 13:27:14 2014] [debug] 200 OK (0.001046s, 956.023/s).
+[Sun Nov  9 13:27:17 2014] [debug] POST "/".
+[Sun Nov  9 13:27:17 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:17 2014] [info] login check
+[Sun Nov  9 13:27:17 2014] [info] pass check
+[Sun Nov  9 13:27:17 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 13:27:17 2014] [debug] Rendering template "root/index.html.ep".
+[Sun Nov  9 13:27:17 2014] [debug] 200 OK (0.001817s, 550.358/s).
+[Sun Nov  9 13:27:24 2014] [debug] GET "/mypage".
+[Sun Nov  9 13:27:24 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:24 2014] [info] login check
+[Sun Nov  9 13:27:24 2014] [debug] Routing to controller "LoginTest::Root" and action "mypage".
+[Sun Nov  9 13:27:24 2014] [debug] Rendering cached template "root/mypage.html.ep".
+[Sun Nov  9 13:27:24 2014] [debug] 200 OK (0.001143s, 874.891/s).
+[Sun Nov  9 13:27:28 2014] [debug] GET "/mypage".
+[Sun Nov  9 13:27:28 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:28 2014] [info] login check
+[Sun Nov  9 13:27:28 2014] [debug] Routing to controller "LoginTest::Root" and action "mypage".
+[Sun Nov  9 13:27:28 2014] [debug] Rendering cached template "root/mypage.html.ep".
+[Sun Nov  9 13:27:28 2014] [debug] 200 OK (0.003180s, 314.465/s).
+[Sun Nov  9 13:27:31 2014] [debug] GET "/mypage".
+[Sun Nov  9 13:27:31 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:31 2014] [info] login check
+[Sun Nov  9 13:27:31 2014] [debug] Routing to controller "LoginTest::Root" and action "mypage".
+[Sun Nov  9 13:27:31 2014] [debug] Rendering cached template "root/mypage.html.ep".
+[Sun Nov  9 13:27:31 2014] [debug] 200 OK (0.001142s, 875.657/s).
+[Sun Nov  9 13:27:34 2014] [debug] GET "/home".
+[Sun Nov  9 13:27:34 2014] [debug] Template "not_found.development.html.ep" not found.
+[Sun Nov  9 13:27:34 2014] [debug] Template "not_found.html.ep" not found.
+[Sun Nov  9 13:27:34 2014] [debug] Rendering cached inline template "3e3201ab0667c1fc7f39089209f0435c".
+[Sun Nov  9 13:27:34 2014] [debug] Rendering cached inline template "e9390393841cf5d4025baa2848b76dd8".
+[Sun Nov  9 13:27:34 2014] [debug] 404 Not Found (0.004021s, 248.694/s).
+[Sun Nov  9 13:27:38 2014] [debug] GET "/".
+[Sun Nov  9 13:27:38 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:38 2014] [info] login check
+[Sun Nov  9 13:27:38 2014] [debug] Routing to controller "LoginTest::Root" and action "index".
+[Sun Nov  9 13:27:38 2014] [debug] Rendering cached template "root/index.html.ep".
+[Sun Nov  9 13:27:38 2014] [debug] 200 OK (0.001440s, 694.444/s).
+[Sun Nov  9 13:27:40 2014] [debug] GET "/logout".
+[Sun Nov  9 13:27:40 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:40 2014] [info] login check
+[Sun Nov  9 13:27:40 2014] [debug] Routing to controller "LoginTest::Root" and action "logout".
+[Sun Nov  9 13:27:40 2014] [debug] 302 Found (0.000939s, 1064.963/s).
+[Sun Nov  9 13:27:40 2014] [debug] GET "/".
+[Sun Nov  9 13:27:40 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:40 2014] [info] login check
+[Sun Nov  9 13:27:40 2014] [debug] Rendering cached template "root/auth.html.ep".
+[Sun Nov  9 13:27:40 2014] [debug] 200 OK (0.001232s, 811.688/s).
+[Sun Nov  9 13:27:48 2014] [debug] GET "/mypage".
+[Sun Nov  9 13:27:48 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:27:48 2014] [info] login check
+[Sun Nov  9 13:27:48 2014] [debug] Rendering cached template "root/auth.html.ep".
+[Sun Nov  9 13:27:48 2014] [debug] 200 OK (0.001034s, 967.118/s).
+[Sun Nov  9 13:30:38 2014] [debug] POST "/".
+[Sun Nov  9 13:30:38 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:30:38 2014] [info] login check
+[Sun Nov  9 13:30:38 2014] [info] pass check
+[Sun Nov  9 13:30:38 2014] [debug] Rendering template "root/auth.html.ep".
+[Sun Nov  9 13:30:38 2014] [debug] 200 OK (0.031428s, 31.819/s).
+[Sun Nov  9 13:30:40 2014] [debug] POST "/".
+[Sun Nov  9 13:30:40 2014] [debug] Routing to controller "LoginTest::Root" and action "login".
+[Sun Nov  9 13:30:40 2014] [info] login check
+[Sun Nov  9 13:30:40 2014] [info] pass check
+[Sun Nov  9 13:30:40 2014] [debug] Rendering cached template "root/auth.html.ep".
+[Sun Nov  9 13:30:40 2014] [debug] 200 OK (0.001117s, 895.255/s).
